@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @isolexIO
+- 👋 Hi, I’m BluChip.Foundation
 - 👀 I’m interested in web3
 - 🌱 I’m currently learning about Solana tokens
 - 💞️ I’m looking to collaborate on BluChip.Foundation
